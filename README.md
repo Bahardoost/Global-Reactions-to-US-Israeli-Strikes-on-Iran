@@ -13,5 +13,5 @@ Key Findings
 
 Methodology
 * Tool:Microsoft Excel.
-* *Scope:62 countries.
+* Scope:62 countries.
 * Analysis:Organized into six political categories using eight types of statistical analysis,
